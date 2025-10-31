@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 .stm32cubemx/
+=======
+target/
+.settings
+.classpath
+.project
+>>>>>>> 3cda69f212b0a96edbef169b9a1787eedd19fdfc
