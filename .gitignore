@@ -1,10 +1,18 @@
 # 合并后的 .gitignore 内容
+# 前端/Node.js相关
 node_modules/
+
+# IDE配置
 .idea/
-target/
+.stm32cubemx/
 .settings/
 .classpath
 .project
+
+# 编译输出
+target/
+
+# 系统/缓存目录
 AppData/
 Local/
 Temp/
