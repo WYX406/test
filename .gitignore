@@ -1,4 +1,10 @@
+# 合并后的 .gitignore 内容
+node_modules/
+.idea/
 target/
-.settings
+.settings/
 .classpath
 .project
+AppData/
+Local/
+Temp/
